@@ -1,0 +1,4 @@
+name = "RemoteTestPkg"
+uuid = "1c96aa74-8ecf-4a24-be7b-6c362101acb6"
+authors = ["Alistair White <alistair@pik-potsdam.de>"]
+version = "0.1.0"
